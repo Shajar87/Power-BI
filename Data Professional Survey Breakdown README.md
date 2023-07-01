@@ -4,9 +4,9 @@
 
 **Tool used: Power BI**
 
-The dataset contains the details of the survey takers like their Email ID, Job Title, Favourite Programming language, Job satisfaction, etc.
+---
+The dataset contains the details of the Data Professionals like their Email ID, Job Title, Favourite Programming language, Job satisfaction, etc.
 
---- 
 **Dataset Review**
 
 
