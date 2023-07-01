@@ -2,7 +2,10 @@
 ### About The Project:
 **Tool used: Power BI**
 
+---
 The dataset contains the details of the superstore's sales:
+
+**Dataset Review**
 
 | Order ID       | Order Date  | Ship Date   | Ship Mode       | Customer ID | Customer Name | Segment   | Country        | City         | State      | Region | Product ID    | Category    | Sub-Category | Product Name                                         | Sales | Quantity | Profit | Returns | Payment Mode |
 |----------------|-------------|-------------|-----------------|-------------|---------------|-----------|----------------|--------------|------------|--------|---------------|--------------|--------------|------------------------------------------------------|-------|----------|--------|---------|--------------|
