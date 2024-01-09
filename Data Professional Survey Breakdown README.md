@@ -6,6 +6,11 @@
 
 ---
 The dataset contains the details of the Data Professionals like their Email ID, Job Title, Favourite Programming language, Job satisfaction, etc.
+  
+**🔗Dashboard Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix
+
+**🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Breakdown.xlsx
+
 
 **Dataset Review**
 
@@ -37,8 +42,3 @@ The dataset contains the details of the Data Professionals like their Email ID, 
 - The Average Salary of Data scientists is greater than the other data profiles.
 - Satisfaction with work-life balance is **5.86/10**.
 - Satisfaction with salary is **4.27/10**.
-
-   
-**🔗Dashboard Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix
-
-**🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Breakdown.xlsx
