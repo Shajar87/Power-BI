@@ -5,7 +5,7 @@
 **Tool used: Power BI**
 
 ---
-The dataset contains the details of the Data Professionals like their Email ID, Job Title, Favourite Programming language, Job satisfaction, etc.
+Built a dashboard on the dataset which contains the details of the Data Professionals like their Email ID, Job Title, Favourite Programming language, Job satisfaction, etc.
   
 **🔗Dashboard Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix
 
