@@ -3,7 +3,7 @@
 **Tool used: Power BI**
 
 ---
-Built the sale dashboard of a superstore sale's dataset.
+Built the sale dashboard of a superstore sales.
    
 **🔗Dashboard Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Superstore%20Sales%20Dashboar%EF%BB%BFd.pbix
 
