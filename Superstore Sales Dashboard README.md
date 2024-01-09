@@ -3,7 +3,11 @@
 **Tool used: Power BI**
 
 ---
-The dataset contains the details of the superstore's sales:
+Built the sale dashboard of a superstore sale's dataset.
+   
+**🔗Dashboard Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Superstore%20Sales%20Dashboar%EF%BB%BFd.pbix
+
+**🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/SuperStore_Sales_DataSet.csv
 
 **Dataset Review**
 
@@ -66,8 +70,3 @@ These findings provide actionable insights to drive strategic decision-making, o
 3. Shipping Efficiency: Streamline logistics operations, assess shipping processes, and consider partnerships with reliable shipping providers to improve overall shipping efficiency and reduce delays, enhancing customer satisfaction.
 
 4. Payment Modes: Optimize the cash-on-delivery process while exploring partnerships with other payment service providers to offer diverse payment options, catering to customer preferences, expanding the customer base, and improving convenience during transactions.
-
-   
-**🔗Dashboard Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Superstore%20Sales%20Dashboar%EF%BB%BFd.pbix
-
-**🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/SuperStore_Sales_DataSet.csv
